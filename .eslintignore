@@ -1,0 +1,12 @@
+**/node_modules/*
+**/out/*
+**/.next/*
+build
+coverage
+yarn.lock
+.eslintcache
+.eslintrc.js
+**/*.test.ts*
+
+next-env.d.ts
+next-environment.d.ts
